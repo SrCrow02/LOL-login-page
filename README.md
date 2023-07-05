@@ -1,5 +1,4 @@
 # LOL-login-page
-A copy of Lol's login page (League of Legends)
 
 <div align="center">
   <p float="left">
